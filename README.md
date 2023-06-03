@@ -20,14 +20,14 @@ For text line recognition, we employ the attention-based encoder-decoder on our 
 
 
 ## Installing Kindai OCR
-python==3.7.4   
-torch==1.4.0   
-torchvision==0.2.1   
-opencv-python==3.4.2.17   
-scikit-image==0.14.2   
-scipy==1.1.0   
-Polygon3   
-pillow==4.3.0   
+Python==3.10.6
+Pillow==9.5.0
+Polygon3==3.0.9.1
+opencv-python==4.7.0.72
+scikit-image==0.21.0
+scipy==1.10.1
+torch==2.0.1
+torchvision==0.15.2
 
 
 ## Running Kindai OCR
